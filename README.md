@@ -6,7 +6,7 @@
 >
 > **Project developed by:**\
 > Martim Silva ([motapinto](https://github.com/motapinto))\
-> João Paulo ([joaopauloworkbusiness])(https://github.com/joaopauloworkbusiness)
+> João Paulo ([joaopauloworkbusiness](https://github.com/joaopauloworkbusiness))
 >
 > **Any problems?**\
 > Start an Issue please.
