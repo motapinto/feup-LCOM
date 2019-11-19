@@ -5,7 +5,8 @@
 > **Course:** Laboratório de Computadores: [LCOM page in sigarra](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=272666) | Computer Laboratory
 >
 > **Project developed by:**\
-> Martim Silva ([motapinto](https://github.com/motapinto))
+> Martim Silva ([motapinto](https://github.com/motapinto))\
+> João Paulo ([joaopauloworkbusiness])(https://github.com/joaopauloworkbusiness)
 >
 > **Any problems?**\
 > Start an Issue please.
